@@ -6,4 +6,8 @@ This is Web Data Downloader (WDD) a web file downloader made in python for windo
 
     pyinstaller --noconsole --onefile --icon="icon.ico" --add-data "icon.ico;." wdd.py
 
+
+
+    
+
     wdd.exe
