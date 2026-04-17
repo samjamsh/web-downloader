@@ -2,12 +2,10 @@
 This is Web Data Downloader (WDD) a web file downloader made in python for windows operating systems, you can use it to download files including youtube videos, it is a free and open source software.
 
 
-*Usage*
+*Convert to EXE*
 
     pyinstaller --noconsole --onefile --icon="icon.ico" --add-data "icon.ico;." wdd.py
 
-
-
-    
+*Run EXE*    
 
     wdd.exe
